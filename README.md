@@ -1,32 +1,29 @@
 # Salut, je suis Mamadou Nimaga ! 👋
 
 ### 🚀 Étudiant en L3 Informatique @ Université Paris Cité | Futur Alternant IA & Finance
-Passionné par l'intersection entre l'algorithmique complexe et les marchés financiers. 
+**Candidat aux Grandes Écoles d'Ingénieurs (GEI-UNIV / Centrale-Supélec)**
 
-- 🔭 Je travaille actuellement sur : **CryptoWatch** (Analyse de données crypto en temps réel)
-- 🌱 J'approfondis mes connaissances en : **Deep Learning & Quantitative Finance**
-- 🏆 Participant au **SWERC (ICPC)** : Passionné par la résolution de problèmes et l'optimisation.
-- 🌍 Engagé dans la tech : Core Team @ **GDG Bamako**
+- 🏆 **Distinction :** Sélectionné pour le **SWERC 2025 (ICPC)** pour représenter Paris Cité.
+- 🥇 **Major de Promotion :** Major National BT2 Électronique (17,41/20).
+- 🔭 **Projet Actuel :** **CryptoWatch** — Outil d'aide à la décision (FastAPI, Streamlit, Trading Metrics).
+- 🌱 **Expertise :** Algorithmique complexe, Deep Learning (SARIMA vs LSTM) et FinTech.
+- 🌍 **Communauté :** Core Team @ **GDG Bamako**.
 
 ---
 
 ### 🛠 Mon Stack Technique
-- **Languages:** Python (Expert), C++, JavaScript, SQL
-- **AI/Data:** PyTorch, Scikit-learn, Pandas, OpenCV
-- **Tools:** Docker, Git, Linux, AWS
+- [cite_start]**Langages :** Python (Expert), Java, C++, C, Dart, SQL, PHP, JavaScript [cite: 53]
+- [cite_start]**Frameworks :** Django, FastAPI, Flutter, Laravel, Streamlit [cite: 32, 23, 34, 45]
+- [cite_start]**IA & Data :** PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, SARIMA/LSTM [cite: 52, 29]
+- [cite_start]**Outils & DevOps :** Docker, Git, Linux, Azure DevOps, PostgreSQL, Firebase [cite: 54, 53]
 
 ---
 
-### 📊 Mes Stats GitHub
-![Les stats de Mamadou](https://github-readme-stats.vercel.app/api?username=artmis137&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artmis137&layout=compact&theme=tokyonight)
+### 📊 Mes Statistiques GitHub
+![Stats de Mamadou](https://github-readme-stats.vercel.app/api?username=artmis137&show_icons=true&theme=tokyonight)
+![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=artmis137&layout=compact&theme=tokyonight)
 
 ---
 
 📫 **On reste en contact ?**
-[LinkedIn](https://www.linkedin.com/in/mamadou-nimaga-685919294/) | [Portfolio](https://mamadou-nimaga.tech/) | [Email](mnimaga02@gmail.com)
-
-<!---
-Artmis137/Artmis137 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/mamadou-nimaga-685919294/) | [Portfolio](https://mamadou-nimaga.tech/) | [Email](mailto:mnimaga02@gmail.com)
