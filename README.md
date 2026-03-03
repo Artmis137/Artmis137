@@ -21,7 +21,7 @@
 
 ### 📊 Mes Statistiques GitHub
 ![Stats de Mamadou](https://github-readme-stats.vercel.app/api?username=artmis137&show_icons=true&theme=tokyonight)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=artmis137&layout=compact&theme=tokyonight)
+![Top Langages]([https://github-readme-stats.vercel.app/api/top-langs/?username=artmis137&layout=compact&theme=tokyonight](https://github-readme-stats.vercel.app/api/top-langs?username=Artmis137&layout=compact&theme=tokyonight&cache_id=1)
 
 ---
 
