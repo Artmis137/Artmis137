@@ -5,7 +5,7 @@
 
 - 🏆 **Distinction :** Sélectionné pour le **SWERC 2025 (ICPC)** pour représenter l'Université Paris Cité.
 - 🥇 **Major de Promotion :** Major National BT2 Électronique (17,41/20).
-- 💡 **Performance :** Validé le module d'Optimisation avec **20/20**.
+- 💡 **Performance :** Validé le projet Java d'Optimisation avec **20/20**.
 - 🔭 **Projet Actuel :** **CryptoWatch** — Outil d'aide à la décision basé sur des indicateurs techniques (RSI, MACD) et modèles de prédiction.
 - 🌱 **Expertise :** Algorithmique complexe, Deep Learning (modèles LSTM/SARIMA) et Finance Quantitative.
 - 🌍 **Engagement :** Core Team @ **GDG Bamako**.
