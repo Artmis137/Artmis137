@@ -12,10 +12,10 @@
 ---
 
 ### 🛠 Mon Stack Technique
-- [cite_start]**Langages :** Python (Expert), Java, C++, C, Dart, SQL, PHP, JavaScript [cite: 53]
-- [cite_start]**Frameworks :** Django, FastAPI, Flutter, Laravel, Streamlit [cite: 32, 23, 34, 45]
-- [cite_start]**IA & Data :** PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, SARIMA/LSTM [cite: 52, 29]
-- [cite_start]**Outils & DevOps :** Docker, Git, Linux, Azure DevOps, PostgreSQL, Firebase [cite: 54, 53]
+- **Langages :** Python (Expert), Java, C++, C, Dart, SQL, PHP, JavaScript
+- **Frameworks :** Django, FastAPI, Flutter, Laravel, Streamlit
+- **IA & Data :** PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, SARIMA/LSTM
+- **Outils & DevOps :** Docker, Git, Linux, Azure DevOps, PostgreSQL, Firebase
 
 ---
 
