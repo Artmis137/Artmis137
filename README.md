@@ -3,25 +3,28 @@
 ### 🚀 Étudiant en L3 Informatique @ Université Paris Cité | Futur Alternant IA & Finance
 **Candidat aux Grandes Écoles d'Ingénieurs (GEI-UNIV / Centrale-Supélec)**
 
-- 🏆 **Distinction :** Sélectionné pour le **SWERC 2025 (ICPC)** pour représenter Paris Cité.
+- 🏆 **Distinction :** Sélectionné pour le **SWERC 2025 (ICPC)** pour représenter l'Université Paris Cité.
 - 🥇 **Major de Promotion :** Major National BT2 Électronique (17,41/20).
-- 🔭 **Projet Actuel :** **CryptoWatch** — Outil d'aide à la décision (FastAPI, Streamlit, Trading Metrics).
-- 🌱 **Expertise :** Algorithmique complexe, Deep Learning (SARIMA vs LSTM) et FinTech.
-- 🌍 **Communauté :** Core Team @ **GDG Bamako**.
+- 💡 **Performance :** Validé le module d'Optimisation avec **20/20**.
+- 🔭 **Projet Actuel :** **CryptoWatch** — Outil d'aide à la décision basé sur des indicateurs techniques (RSI, MACD) et modèles de prédiction.
+- 🌱 **Expertise :** Algorithmique complexe, Deep Learning (modèles LSTM/SARIMA) et Finance Quantitative.
+- 🌍 **Engagement :** Core Team @ **GDG Bamako**.
 
 ---
 
 ### 🛠 Mon Stack Technique
-- **Langages :** Python (Expert), Java, C++, C, Dart, SQL, PHP, JavaScript
+- **Langages :** Python (Expert), Java, C++, C, SQL, PHP, Dart, JavaScript
+- **IA & Data Science :** Scikit-learn, Pandas, NumPy, OpenCV, PyTorch
 - **Frameworks :** Django, FastAPI, Flutter, Laravel, Streamlit
-- **IA & Data :** PyTorch, Scikit-learn, Pandas, NumPy, OpenCV, SARIMA/LSTM
-- **Outils & DevOps :** Docker, Git, Linux, Azure DevOps, PostgreSQL, Firebase
+- **Outils & DevOps :** Docker, Git, Linux (Administration), Azure DevOps
 
 ---
 
-### 📊 Mes Statistiques GitHub
-![Stats de Mamadou](https://github-readme-stats.vercel.app/api?username=Artmis137&show_icons=true&theme=tokyonight&cache_id=1)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs?username=Artmis137&layout=compact&theme=tokyonight&cache_id=1)
+### 📊 Activité & Trophées
+![Trophées de Mamadou](https://github-profile-trophy.vercel.app/?username=Artmis137&theme=tokyonight&column=7)
+
+![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=Artmis137&theme=tokyo-night)
+
 ---
 
 📫 **On reste en contact ?**
