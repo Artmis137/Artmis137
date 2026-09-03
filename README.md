@@ -1,7 +1,7 @@
 # Salut, je suis Mamadou Nimaga ! 👋
 
-### 🚀 Étudiant en L3 Informatique @ Université Paris Cité | Futur Alternant IA & Finance
-**Candidat aux Grandes Écoles d'Ingénieurs (GEI-UNIV / Centrale-Supélec)**
+### 🚀 Étudiant en Master MLSD (Machine Learning & Statistical Data) @ Université Paris Cité | En recherche d'alternance
+**Passionné par l'IA, la Finance Quantitative et l'Optimisation**
 
 - 🏆 **Distinction :** Sélectionné pour le **SWERC 2025 (ICPC)** pour représenter l'Université Paris Cité.
 - 🥇 **Major de Promotion :** Major National BT2 Électronique (17,41/20).
