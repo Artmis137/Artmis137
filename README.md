@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠 Mon Stack Technique
+### 🛠️ Mon Stack Technique
 - **Langages :** Python (Expert), Java, C++, C, SQL, PHP, Dart, JavaScript
 - **IA & Data Science :** Scikit-learn, Pandas, NumPy, OpenCV, PyTorch
 - **Frameworks :** Django, FastAPI, Flutter, Laravel, Streamlit
@@ -20,10 +20,31 @@
 
 ---
 
-### 📊 Activité & Trophées
-![Trophées de Mamadou](https://github-profile-trophy.vercel.app/?username=Artmis137&theme=tokyonight&column=7)
+### 📊 Mes statistiques GitHub
 
-![Graphique d'activité](https://github-readme-activity-graph.vercel.app/graph?username=Artmis137&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Artmis137&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artmis137&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Trophées
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Artmis137&theme=onedark&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 📈 Activité
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Artmis137&theme=react-dark&hide_border=true" alt="Graphique d'activité" />
+</p>
 
 ---
 
