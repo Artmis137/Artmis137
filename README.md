@@ -16,6 +16,7 @@ En recherche d'alternance (2 jours entreprise / 3 jours école) et de stage à p
 
 | Projet | En bref | Stack |
 |---|---|---|
+| **[Cloud Native Car Rental Service](https://github.com/Artmis137/cloud-native-rental-service)** | API REST de location de voitures : validation, gestion des erreurs, 12 tests, image Docker, CI GitHub Actions. | Python, FastAPI, Pydantic, pytest, Docker |
 | **CryptoWatch** | Aide à la décision sur les marchés crypto : données via API, indicateurs (RSI, MACD), backtesting, agent IA avec tool calling. Lead Dev, équipe de 4. | Python, FastAPI, SQLite, Streamlit, LLaMA (Groq) |
 | **SafeWaters AI** | Comparaison SARIMA vs LSTM pour la prévision sur 40 ans de données. | Python, statsmodels, LSTM |
 | **Détection d'anomalies cardiaques** | Classification de signaux ECG exposée via une API. | Python, scikit-learn, Django REST |
@@ -36,6 +37,26 @@ En recherche d'alternance (2 jours entreprise / 3 jours école) et de stage à p
 - Sélectionné au **SWERC 2025 (ICPC)** pour l'Université Paris Cité · 210+ problèmes LeetCode (A2SV)
 - Major national BT2 Électronique (17,41/20) · 1er Prix Africa Digital
 - Core Team **GDG Bamako**
+
+---
+
+### Statistiques GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Artmis137&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artmis137&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Artmis137&theme=onedark&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Artmis137&theme=react-dark&hide_border=true" alt="Graphique d'activité" />
+</p>
 
 ---
 
