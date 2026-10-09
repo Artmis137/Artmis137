@@ -40,24 +40,4 @@ En recherche d'alternance (2 jours entreprise / 3 jours école) et de stage à p
 
 ---
 
-### Statistiques GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artmis137&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artmis137&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Artmis137&theme=onedark&no-bg=true&no-frame=true&column=7" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Artmis137&theme=react-dark&hide_border=true" alt="Graphique d'activité" />
-</p>
-
----
-
 [Portfolio](https://mamadou-nimaga.tech/) · [LinkedIn](https://www.linkedin.com/in/mamadou-nimaga-685919294/) · [Email](mailto:mnimaga02@gmail.com)
